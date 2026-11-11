@@ -1,0 +1,24 @@
+[
+  {
+    "repo": "numman-ali/openskills",
+    "error": "<urlopen error _ssl.c:1112: The handshake operation timed out>"
+  },
+  {
+    "full_name": "vercel-labs/skills",
+    "pushed_at": "2026-11-10T23:59:16Z",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "archived": false
+  },
+  {
+    "full_name": "anthropics/skills",
+    "pushed_at": "2026-11-06T22:32:32Z",
+    "license": null,
+    "archived": false
+  }
+]

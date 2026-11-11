@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "skill-meta"
+version = "0.1.0"
+description = "Discover and load local Agent Skills through CLI or MCP"
+requires-python = ">=3.9"
+[project.scripts]
+skill-meta = "skill_meta.cli:main"
+[tool.setuptools.packages.find]
+where = ["src"]
